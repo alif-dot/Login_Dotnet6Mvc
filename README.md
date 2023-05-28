@@ -27,3 +27,5 @@ To implement role-based authentication in ASP.NET Core (MVC) 6, you need to foll
 6. Manage Roles and Permissions: Provide an interface or mechanism to manage roles and permissions. This can include an administration panel where authorized users can assign or revoke roles from other users, or allow users to manage their own roles within defined constraints.
 
 Role-based authentication in ASP.NET Core (MVC) 6 offers a flexible and scalable approach to managing access control in your web application. By defining roles and associating them with users, you can ensure that each user has appropriate access to the functionality and resources they need. It provides a powerful mechanism for enforcing security and protecting sensitive data within your application.
+
+
